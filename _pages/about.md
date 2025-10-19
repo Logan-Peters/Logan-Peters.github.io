@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in the CSE department at UCSD. I started in Fall 2020 and did my undergraduate degree in computer science and math at Carleton College. My advisor is Yusu Wang and currently, I work on research relating to optimal transport, neural networks, geometric deep learning, and geometric algorithms/problems. 
+I am a PhD student in the Computer Science department at UC Davis. I started in Fall 2021 and did my undergraduate degree in computer science  at Carleton College. I am co-advised Karen Moxon and Xin Liu and currently, I work on research relating to interpetable machine learning, brain machine interfaces and computational neuroscience.
 
 Publications
 ======
