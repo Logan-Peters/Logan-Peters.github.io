@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in the Computer Science department at UC Davis. I started in Fall 2021 and did my undergraduate degree in computer science at Carleton College. I am co-advised by Karen Moxon and Xin Liu and currently I work on research relating to interpetable machine learning, brain machine interfaces and computational neuroscience.
+I am a PhD student in the Computer Science department at UC Davis. I started in Fall 2021 and did my undergraduate degree in computer science at Carleton College. I am co-advised by Karen Moxon and Xin Liu and I work on research relating to interpetable machine learning, brain machine interfaces and computational neuroscience.
 
 Publications
 ======
